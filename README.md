@@ -1,5 +1,5 @@
-# segredosUnifesp-Server 
-Este é o back-end do aplicativo segredosUnifesp.
+# Multrooms-Server 
+Este é o back-end do aplicativo Multirooms.
 
 É uma API RESTful construída com o NodeJS + Express + MongoDB que recebe todos os dados relacionados usuários, mensagems  e salas
 e registra / fornece ao cliente todos esses dados por meio de uma API REST e uma servidor Socket.io
@@ -29,9 +29,9 @@ Para usar o banco de dados, você precisará ter o MongoDB instalado e em execu�
 Instalando
 Clonando o repositório
 
-$ git clone https://github.com/cristiano182/segredosUnifesp-server
+$ git clone https://github.com/cristiano182/multiroomsServer
 
-$ cd segredosUnifesp-server
+$ cd multiroomsServer
 Instalando dependências
 
 $ yarn
