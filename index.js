@@ -10,7 +10,7 @@ require('./config/db')
 
 const Message = require("./models/message")
 
-multirooms.setConfig(Message, 10,20)
+multirooms.setConfig(Message, 15,20)
 
 app.use(cors())
 app.use(bodyParser.urlencoded({ extended: true }));

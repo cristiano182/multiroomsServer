@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "jsrsasign": "^8.0.12",
     "mongoose": "^5.5.13",
-    "multirooms": "^1.0.0",
+    "multirooms": "^1.0.5",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
